@@ -40,13 +40,15 @@
 <p>Это учебный проект. Прогноз для города Челябинск.</p>
 <p>Для изменения города в модуле pars.py изменить в переменной SITE на нужный город</p>
 
-``` SITE = 'https://pogoda.mail.ru/prognoz/chelyabinsk'
+``` 
+SITE = 'https://pogoda.mail.ru/prognoz/chelyabinsk'
 ```
 
 <p>Создайте и активируйте виртуальное окружение.</p>
 <p>Установите зависимости в виртуальном окружении env/ :</p>
 
-``` pip install -r requirements.txt
+``` 
+pip install -r requirements.txt
 ```
 
 Запуск
