@@ -7,14 +7,18 @@
 Результат работы
 -----
 Добавление прогноза в бд за выбранную дату 
+
 ![Start](https://i.ibb.co/47dqgGn/1.gif)
 
 
 Вывод прогноза из бд на консоль
+
 ![weather](https://i.ibb.co/yRckMLx/2.gif)
 
 
 Создание открыток с прогнозом за диапозон дат
+
 ![postcard](https://i.ibb.co/VSpwmLm/3.gif)
 Пример открытки:
+
 ![postcard](https://i.ibb.co/6BJZJnp/weather-image-19-January.jpg)
