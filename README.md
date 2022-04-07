@@ -53,6 +53,7 @@
 ---
 <p>Находясь в папке проекта, запустите файл 01_weather.py</p>
 
-``` python weather.py
+``` 
+python weather.py
 ```
 
