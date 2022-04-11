@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 Запуск
 ---
-<p>Находясь в папке проекта, запустите файл 01_weather.py</p>
+<p>Находясь в папке проекта, запустите файл weather.py</p>
 
 ``` 
 python weather.py
